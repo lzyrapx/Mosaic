@@ -1,6 +1,6 @@
 # Create Mosaic Photo with Python
 ## 前置知识
-#### 1.用 Python 图像库（PIL）创建图像。
+#### 1.利用Python 图像库（PIL）创建图像。
 #### 2.计算图像的平均RGB值。
 #### 3.剪切图像。
 #### 4.通过粘贴另一张图像来替代原图像的一部分。
